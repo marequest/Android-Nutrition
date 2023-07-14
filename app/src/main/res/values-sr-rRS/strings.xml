@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ispit Meal App</string>
+    <string name="filter">Filter</string>
+    <string name="plan">Plan</string>
+    <string name="profile">Profil</string>
+    <string name="meal_title">Jelo</string>
+    <string name="meal_tags">Tagovi</string>
+    <string name="yt_link">Jutjub link</string>
+    <string name="ingredients">Sastojci</string>
+    <string name="steps">Koraci</string>
+    <string name="save_meal">Sacuvaj</string>
+    <string name="meal">Jelo</string>
+    <string name="category">Kategorija</string>
+    <string name="text">Tekst</string>
+    <string name="create_weekly_plan">Napravi nedeljni plan</string>
+    <string name="select_day">Izaberi dan</string>
+    <string name="select_meal_type">Izaberi tip jela</string>
+    <string name="select_category">Izaberi kategoriju</string>
+    <string name="who_is_this_meal_for">Kome saljemo plan</string>
+    <string name="send_plan">Posalji plan</string>
+    <string name="search">Pretraga...</string>
+    <string name="izaberi_datum_pripreme_opciono">Odaberi datum:</string>
+    <string name="jan_01_2020">JAN 01 2020</string>
+    <string name="izaberi_kategoriju">Odaberi kategoriju:</string>
+    <string name="add_to_menu">Dodaj u meni</string>
+    <string name="select_date">Odaberi datum</string>
+    <string name="welcome">Dobrodosli</string>
+    <string name="hello_please_log_in">Zdravo, ulogujte se</string>
+    <string name="username">Korisnicko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="forgot_password">Zaboravili ste lozinku?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Nemate nalog?</string>
+    <string name="sign_up">Signup</string>
+    <string name="save_changes">Sacuvaj promene</string>
+    <string name="delete">Izbrisi</string>
+    <string name="menu">Menu</string>
+</resources>
